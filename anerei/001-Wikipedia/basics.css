@@ -9,16 +9,37 @@ body {
 
 h1, h2, h3 {
   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+  margin-top: 47px;
 }
 
 p, li {
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  margin-top: -2px;
 }
 
 p:first-of-type {
-    margin-top: 230px
+  margin-top: 227px
 }
 
 h2 + p {
-  margin-top: 8px;
+  margin-top: 6px;
 }
+
+h3 + p {
+margin-top: 28px;
+}
+
+p + ul  {
+margin-top: 3px;
+}
+
+ul + h3 {
+margin-top: 65px;
+}
+
+h2 + h3 {
+margin-top: 59px;
+}
+
+p + h2 {
+margin-top: 44px;}

@@ -1,9 +1,35 @@
-h1
-{
-    font-size: 60px;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 213px;
-    letter-spacing: -2.4px;
-    color: black;
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 215px;
+  letter-spacing: -1.5px;
+}
+
+p {
+  font-size: 22px;
+  line-height: 1.5;
+  letter-spacing: 0.16px;
+}
+
+h2 {
+  font-size: 37px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  margin-top: 45px;
+}
+
+h3 {
+  font-size: 31px;
+  font-weight: bold;
+  color: grey;
+  letter-spacing: -0.7px;
+  margin-top: 62px;
+  }
+
+ul {
+  margin-top: 0.8px;
+  font-size: 22px;
+  letter-spacing: 0.2px;
+  line-height: 1.5;
 }
